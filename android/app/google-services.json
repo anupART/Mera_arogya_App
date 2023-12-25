@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891901762754",
+    "project_id": "mera-arogya",
+    "storage_bucket": "mera-arogya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891901762754:android:419f6a802a739be8892f5b",
+        "android_client_info": {
+          "package_name": "com.example.mera_arogya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzAGW2lteoj16ZncAouhvVy5GUFNbkJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
