@@ -1,16 +1,19 @@
-# mera_arogya
+# Mera Arogya - Medical Application
+Mera Arogya is a user-centric medical application designed to cater to diverse healthcare needs. Built using Flutter, this app offers essential features with a focus on accessibility, simplified navigation, and an intuitive design for seamless user experiences.
 
-Medical App
+Features
+Emergency Button
 
-## Getting Started
+Quick access to emergency services for immediate assistance.
+Appointment Scheduling
 
-This project is a starting point for a Flutter application.
+Book, manage, and track medical appointments effortlessly.
+Nearby Doctor Locator
 
-A few resources to get you started if this is your first Flutter project:
+Locate healthcare professionals in the vicinity using location services.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Images of an App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home_page](https://github.com/user-attachments/assets/670930c5-4a42-4df2-bd29-3bc9e8dd7798)
+![schedule](https://github.com/user-attachments/assets/b92e0a59-61e3-42ed-9f47-ad2bac1a8c87)
+![more_options](https://github.com/user-attachments/assets/6a93c4ec-9852-4cfc-b1f1-00c97a5fa21a)
