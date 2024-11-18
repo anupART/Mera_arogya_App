@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
             const Text("Hi anup"),
             Text(
               "How are you feeling, We are Here for your help",
-              style: Theme.of(context).textTheme.caption,
+
             ),
           ],
         ),
